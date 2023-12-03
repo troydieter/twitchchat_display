@@ -13,7 +13,7 @@ requests = "^2.23.0"
 click = "^7.1.2"
 fonttools = "^4.9.0"
 webcolors = "^1.11.1"
-colorlog = "^4.1.0"
+colorlog = "^6.0.0"
 twitchchat = {git = "https://github.com/shughes-uk/python-twitchchat.git"}
 
 [tool.poetry.scripts]
